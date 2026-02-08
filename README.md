@@ -2,6 +2,9 @@
 
 A modern, full-stack e-commerce platform built with React, TypeScript, and PostgreSQL. Commerce-Craft provides a robust foundation for building scalable online stores with a clean architecture and modern development practices.
 
+🌐 **[Live Demo](https://commerce-craft.netlify.app/)** | 📚 [Documentation](#-documentation) | 🐛 [Report Bug](https://github.com/biiikrammm/Commerce-Craft/issues)
+
+
 ## ✨ Features
 
 - 🎨 Modern, responsive UI built with React and Tailwind CSS
@@ -14,6 +17,17 @@ A modern, full-stack e-commerce platform built with React, TypeScript, and Postg
 - 📱 Mobile-first responsive design
 - ⚡ Fast performance with Vite
 - 🎭 Type-safe development with TypeScript
+
+## 🌐 Live Demo
+
+Check out the live application: **[https://commerce-craft.netlify.app/](https://commerce-craft.netlify.app/)**
+
+Experience the full functionality of Commerce-Craft including:
+- Browse product catalog
+- Add items to cart
+- User authentication
+- Checkout process
+- Order management
 
 ## 🚀 Tech Stack
 
